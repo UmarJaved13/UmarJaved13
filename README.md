@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI & Full-Stack Developer with **8+ years** of experience building AI-powered solutions, chatbots, and automation systems for businesses across coaching, e-commerce, legal, logistics, and SaaS. I specialize in turning repetitive manual workflows into reliable, scalable AI automations.
+I'm an AI & Full-Stack Developer building AI-powered solutions, chatbots, and automation systems for businesses across coaching, e-commerce, legal, logistics, and SaaS. I specialize in turning repetitive manual workflows into reliable, scalable AI automations.
 
 - 🔭 Currently building production n8n automations, RAG document systems, and custom AI agents for freelance clients
 - 🧠 Deep focus on **prompt engineering** — designing prompts that are reliable, on-brand, and production-tested (not just "demo-good")
@@ -74,15 +74,6 @@ I'm an AI & Full-Stack Developer with **8+ years** of experience building AI-pow
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarJaved13&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UmarJaved13&layout=compact&hide_border=true)
-
-</div>
 
 ## 💬 Client Reviews
 
